@@ -35,3 +35,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+Built a following feature through Flask by designing a users table that utilized a many-to-many relationship with itself and a join table. Deployed AWS to implement user image uploads reducing server load and allowing for scalability of image services.
